@@ -1,5 +1,5 @@
 <h1 id="hello" align="center">Hi 👋, I'm Utsav Sodavadia</h1>
-<h3 align="center">A passionate developer and ML Enthusiast</h3>
+<h3 align="center">A Passionate Developer and ML Enthusiast</h3>
 <br>
 
 - 🔭 I’m currently working on MERN dev projects.
