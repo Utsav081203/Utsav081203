@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on MERN dev projects.
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter and DevOps.
 
 - 💬 Ask me about MERN.
 
